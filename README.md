@@ -10,4 +10,4 @@
 * Tema yang ditampilkan bebas, kecuali tema Bandung
 * Semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi
 
-Proyek akhir : https://github.com/dewipammm/Submission-Tugas-Akhir-Membuat-Website
+Hasil Proyek : 
